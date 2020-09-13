@@ -36,4 +36,6 @@ christina.hennessey@csun.edu
 
 ![Program with text file name entered](/program-textfilename.png)
 
+![Program completed](/program-success.png)
+
 
