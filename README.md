@@ -21,7 +21,7 @@ Edit the user record roles in Alma until the user record allows you to re-rewrit
 Good candidates to check for a missing service unit: 
 Work Order Operator, Receiving Operator, Receiving Operator Limited
 
-This was part of a longer program that does many things to an individual user record, hence the overkill on the
+This was part of a longer program that does many things to an individual Alma user record, hence the overkill on the
 structure of the program. There are plenty of optional print statements in the program so you can check your
 user record changes while you use the program.
 
