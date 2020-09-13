@@ -15,11 +15,15 @@ and those particular external notes will be turned into internal notes.
 Replace api_key in the config.ini file with your API key that allows: User-Production-Read/Write.
 Replace na in the config.ini file with your region (na, eu, ca, cn, ap).
 
-Known errors: if you replace a user record that has associated roles that did not require 
+Include a list of primary IDs for the input text file, as shown below. 
+Errors with reading the IDs will be written to the error.txt file in the same directory.
+
+Known errors: 1. if you replace a user record that has associated roles that did not require 
 a service unit before but need one now, you will get errors when re-writing the user record to Alma.
 Edit the user record roles in Alma until the user record allows you to re-rewrite it. 
 Good candidates to check for a missing service unit: 
 Work Order Operator, Receiving Operator, Receiving Operator Limited
+2. The file name needs to be in the same directory where you are running the code
 
 This was part of a longer program that does many things to an individual Alma user record, hence the overkill on the
 structure of the program. There are plenty of optional print statements in the program so you can check your
