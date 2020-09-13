@@ -42,4 +42,6 @@ christina.hennessey@csun.edu
 
 ![Program completed](/program-success.png)
 
+![Program input file](/IDstofix-file-example.png)
+
 
