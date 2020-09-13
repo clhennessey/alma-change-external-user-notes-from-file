@@ -1,5 +1,5 @@
 # alma-change-external-user-notes-from-file
-Convert Alma user notes from external to internal all at once from a file. Presented at IGeLU conference September 14, 2020
+Convert Alma user notes from external to internal all at once from a file. Presented at IGeLU Developers Day annual conference September 14, 2020
 
 <b>Convert Alma user notes from external to internal</b>
 
