@@ -7,13 +7,13 @@ Conference sessions & descriptions: https://igelu.org/conferences/2020-digital-c
 
 Alma user notes cannot be deleted or changed if they are marked as "external". 
 
-This is a Python program to change the notes from external to internal from a list of IDs in a file so you can delete or change them. 
+This is a Python program to change the notes from external to internal from a list of IDs in a file so you can delete or change them inside of Alma or with other API calls. 
 
 Change "strings_to_search" variable to whatever strings you want to match on in the user note text,
 and those particular external notes will be turned into internal notes.
 
 Replace api_key in the config.ini file with your API key that allows: User-Production-Read/Write.
-Replace xx in the config.ini file with your region.
+Replace na in the config.ini file with your region (na, eu, ca, cn, ap).
 
 Known errors: if you replace a user record that has associated roles that did not require 
 a service unit before but need one now, you will get errors when re-writing the user record to Alma.
