@@ -5,6 +5,8 @@ Convert Alma user notes from external to internal all at once from a file. Prese
 
 Conference sessions & descriptions: https://igelu.org/conferences/2020-digital-conference/igelu-2020-registration-pages/
 
+Link directly to session description and Powerpoint presentation: https://proposalspace.com/p/29242/s
+
 Alma user notes cannot be deleted or changed if they are marked as "external". 
 
 This is a Python program to change the notes from external to internal from a list of IDs in a file so you can delete or change them inside of Alma or with other API calls. 
