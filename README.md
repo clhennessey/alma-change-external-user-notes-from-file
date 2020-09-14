@@ -5,7 +5,7 @@ Convert Alma user notes from external to internal all at once from a file. Prese
 
 Conference sessions & descriptions: https://igelu.org/conferences/2020-digital-conference/igelu-2020-registration-pages/
 
-Link directly to session description and Powerpoint presentation: https://proposalspace.com/p/29242/s
+Link directly to session description: https://proposalspace.com/p/29242/s, PPT slides from presentation: https://github.com/clhennessey/alma-change-external-user-notes-from-file/blob/master/Can%20we%20fix%20it%20user%20notes%20Hennessey%20IGeLU%202020%20FINAL.zip
 
 Alma user notes cannot be deleted or changed if they are marked as "external". 
 
